@@ -187,3 +187,13 @@ Explorer:
 	https://stride.explorers.guru/
 	
 İŞLEMLER BU KADAR BOL ŞANS
+	
+BONUS:
+
+rly transact transfer gaia stride 1000uatom STRIDE ADRESİ channel-0 --path stride-gaia
+	
+rly transact transfer stride gaia 1000ustrd GAIA ADRESİ channel-0 --path stride-gaia
+	
+(Eşleşme sonrası yapılmalıdır-Explorerdan kontrol edip tx alabilirsiniz)
+	
+
